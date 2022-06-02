@@ -1,0 +1,2 @@
+C:\Users\Estudiante.SALA235-PC05.000\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\HospitalDigital11.csproj.AssemblyReference.cache
+C:\Users\Estudiante.SALA235-PC05.000\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Release\HospitalDigital11.csproj.SuggestedBindingRedirects.cache
